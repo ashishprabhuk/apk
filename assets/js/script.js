@@ -290,7 +290,7 @@ const skills = [
       {
         name: "GitHub",
         image:
-          "https://assets.dryicons.com/uploads/icon/svg/8308/d2fb96a4-96bf-4a9c-b182-e95f925c54ff.svg",
+          "./assets/images/github.png",
       },
       {
         name: "Netlify",

@@ -438,7 +438,6 @@ main {
 
 .contact-info address {
     font-style: normal;
-    color: #3aa0ff;
 }
 
 .social-list {
@@ -1735,7 +1734,7 @@ textarea.form-input::-webkit-resizer {
         height: 25px; /* Adjust the height for smaller screens */
       }
     .contacts {
-        flex-direction: column;
+        /* flex-direction: column; */
         align-items: stretch;
     }
 
