@@ -442,7 +442,7 @@ main {
 
 .social-list {
     display: flex;
-    justify-content: flex-start;
+    justify-content: center;
     align-items: center;
     gap: 15px;
     padding-bottom: 4px;
@@ -1464,6 +1464,11 @@ textarea.form-input::-webkit-resizer {
     background: var(--bg-gradient-jet);
 }
 
+.contact-form-icon{
+    width: 35px;
+    height: 35px;
+}
+
 .contacts {
     display: flex;
     flex-direction: row;
@@ -1472,7 +1477,7 @@ textarea.form-input::-webkit-resizer {
     /* justify-content: space-evenly; */
     /* justify-content: center; */
     gap: 15px;
-    margin: 20px 0px 20px 0px;
+    margin-bottom: 30px;
 }
 
 .repo {
@@ -1480,7 +1485,7 @@ textarea.form-input::-webkit-resizer {
     justify-content: center;
     align-items: center;
     padding: 10px 12px;
-    gap: 12px;
+    gap: 14px;
     background-color: #101010;
     outline: 3px #101010 solid;
     outline-offset: -3px;
@@ -1524,7 +1529,7 @@ textarea.form-input::-webkit-resizer {
     justify-content: center;
     align-items: center;
     padding: 10px 12px;
-    gap: 12px;
+    gap: 14px;
     background-color: #007acc;
     outline: 3px #007acc solid;
     outline-offset: -3px;
@@ -1566,7 +1571,7 @@ textarea.form-input::-webkit-resizer {
     justify-content: center;
     align-items: center;
     padding: 10px 12px;
-    gap: 12px;
+    gap: 14px;
     color: #323232;
     background-color: #fff;
     outline: 3px #ffffff solid;
@@ -1614,7 +1619,7 @@ textarea.form-input::-webkit-resizer {
     justify-content: center;
     align-items: center;
     padding: 10px 12px;
-    gap: 12px;
+    gap: 14px;
     color: #323232;
     background-color: #E4405F;
     outline: 3px #E4405F solid;
@@ -1665,7 +1670,7 @@ textarea.form-input::-webkit-resizer {
     justify-content: center;
     align-items: center;
     padding: 10px 12px;
-    gap: 12px;
+    gap: 14px;
     color: #ffffff;
     background-color: #303030;
     outline: 3px #303030 solid;
@@ -1713,6 +1718,11 @@ textarea.form-input::-webkit-resizer {
 \*-----------------------------------*/
 
 @media only screen and (max-width: 600px) {
+
+    .contact-form-icon {
+        width: 25px; /* Adjust the width for smaller screens */
+        height: 25px; /* Adjust the height for smaller screens */
+      }
     .contacts {
         flex-direction: column;
         align-items: stretch;
