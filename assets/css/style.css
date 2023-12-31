@@ -1360,14 +1360,19 @@ textarea.form-input::-webkit-resizer {
     border-color: var(--bittersweet-shimmer);
 }
 
-.material-symbols-outlined {
+.down{
     vertical-align: middle;
+    width: 20px;
+    height: 20px;
+    /* padding-right: 5px; */
+    gap: 10px;
 }
 
 .download {
     color: white;
     display: flex;
     align-items: center;
+    gap: 10px;
 }
 
 
@@ -2543,6 +2548,7 @@ textarea.form-input::-webkit-resizer {
     margin-bottom: 10px;
     opacity: 0;
     transition: opacity 0.3s ease-in-out;
+    box-shadow: var(--shadow-3);
 }
 
 /* Success toast styles */
@@ -2554,9 +2560,11 @@ textarea.form-input::-webkit-resizer {
 .toast-error {
     background-color: #dc3545;
 }
+
 .avt-img {
     border-radius: 15px;
     box-shadow: rgba(0, 156, 253, 0.35) 0px 5px 15px;
+    object-fit: cover;
 }
 
 .metaa {
