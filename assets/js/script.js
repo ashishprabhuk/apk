@@ -235,6 +235,11 @@ const skills = [
           "https://www.vectorlogo.zone/logos/java/java-icon.svg",
       },
       {
+        name: "Spring",
+        image:
+          "https://www.clipartmax.com/png/middle/117-1171017_spring-logo-spring-framework-logo.png",
+      },
+      {
         name: "MySQL",
         image:
           "https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-15.png",
