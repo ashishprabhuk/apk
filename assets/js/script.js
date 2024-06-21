@@ -237,7 +237,7 @@ const skills = [
       {
         name: "Spring",
         image:
-          "https://www.clipartmax.com/png/middle/117-1171017_spring-logo-spring-framework-logo.png",
+          "https://static-00.iconduck.com/assets.00/spring-icon-256x256-2efvkvky.png",
       },
       {
         name: "MySQL",
