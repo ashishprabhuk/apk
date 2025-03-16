@@ -245,6 +245,10 @@ const skills = [
           "https://static-00.iconduck.com/assets.00/spring-icon-256x256-2efvkvky.png",
       },
       {
+        name: "Spring Boot",
+        image: "./assets/images/spring-boot.png",
+      },
+      {
         name: "MySQL",
         image:
           "https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-15.png",
@@ -257,10 +261,6 @@ const skills = [
         name: "MongoDB",
         image:
           "https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg",
-      },
-      {
-        name: "Firebase",
-        image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
       },
     ],
   },
@@ -330,7 +330,7 @@ const skills = [
       {
         name: "Adobe XD",
         image:
-          "https://camo.githubusercontent.com/c205ecbe12500177d102169d97bc1c17c545155fdf5ec78c08d54ac53e5b38c1/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61646f62652d78642e737667",
+          "./assets/images/xd.png",
       },
       {
         name: "Illustrator",
