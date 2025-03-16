@@ -184,6 +184,11 @@ const skills = [
           "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
       },
       {
+        name: "TypeScript",
+        image:
+          "./assets/images/typescript.png",
+      },
+      {
         name: "Angular",
         image:
           "./assets/images/angular.png",
@@ -197,11 +202,6 @@ const skills = [
         name: "Redux",
         image:
           "https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg",
-      },
-      {
-        name: "Next Js",
-        image:
-"https://www.svgrepo.com/show/354113/nextjs-icon.svg",
       },
       {
         name: "SCSS",
