@@ -186,7 +186,7 @@ const skills = [
       {
         name: "Angular",
         image:
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVUcQofbdW28AoTCjLFzojT7sSZQVsEurWQA&s",
+          "https://seeklogo.com/images/A/angular-icon-logo-5FC0C40EAC-seeklogo.com.png",
       },
       {
         name: "React Js",
