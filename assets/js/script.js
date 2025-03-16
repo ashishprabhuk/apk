@@ -204,18 +204,18 @@ const skills = [
 "https://www.svgrepo.com/show/354113/nextjs-icon.svg",
       },
       {
+        name: "SCSS",
+        image:
+          "./assets/images/scss.png",
+      },
+      {
         name: "Bootstrap",
         image:
           "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
       },
       {
-        name: "Sass",
-        image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png",
-      },
-      {
-        name: "Material UI",
-        image: "./assets/images/material.png",
+        name: "Tailwind",
+        image: "./assets/images/tailwind.png",
       },
     ],
   },
@@ -305,7 +305,7 @@ const skills = [
       {
         name: "Netlify",
         image:
-          "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
+          "./assets/images/netlify.png",
       },
       {
         name: "VS Code",
